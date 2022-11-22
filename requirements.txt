@@ -1,0 +1,8 @@
+discord.py
+matplotlib
+google-api-python-client
+google-auth-oauthlib
+beautifulsoup4
+lxml
+aiosqlite
+SQLAlchemy==1.4.3
